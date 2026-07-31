@@ -1,0 +1,100 @@
+customer_id,first_name,last_name,gender,email,phone,date_of_birth,city,state,country,pincode
+CUST000001,Hemangini,Krishna,Male,hemangini.krishna.kfv2@outlook.com,8010422903,23-09-1984,Pali,Odisha,India,222263
+CUST000002,Tanmayi,Raval,Male,tanmayi.raval.6ai6@hotmail.com,9077252299,14-02-2008,Ramgarh,Assam,India,695040
+CUST000003,Anjali,Bahl,Male,anjali.bahl.5dch@outlook.com,7122669613,06-04-1971,Bikaner,Goa,India,838443
+CUST000004,Gaurav,Kibe,Female,gaurav.kibe.cst9@yahoo.com,6719763043,27-11-2005,Mangalore,Chhattisgarh,India,447005
+CUST000005,Omaja,Yadav,Female,omaja.yadav.vvcc@yahoo.com,6183410443,27-04-1968,Rajahmundry,Jharkhand,India,561834
+CUST000006,Charles,Kota,Male,charles.kota.4myb@outlook.com,8051858794,10-05-1982,Satna,Chhattisgarh,India,741126
+CUST000007,Ranbir,Jain,Female,ranbir.jain.t3va@hotmail.com,8025907352,19-09-2007,Alwar,Karnataka,India,820989
+CUST000008,Abdul,Raj,Male,abdul.raj.q8ho@hotmail.com,7607579255,13-08-1964,Muzaffarnagar,Chhattisgarh,India,430781
+CUST000009,Maanav,Palla,Female,maanav.palla.zbem@yahoo.com,9970476667,21-09-1998,Delhi,Meghalaya,India,459727
+CUST000010,Ojas,Bhasin,Female,ojas.bhasin.p0mv@yahoo.com,7458918992,22-11-2007,Motihari,Karnataka,India,366804
+CUST000011,Kabir,Dave,Female,kabir.dave.g4oj@gmail.com,9553574666,26-04-1988,Ambala,Goa,India,873519
+CUST000012,Avi,Sen,Female,avi.sen.8c6w@gmail.com,6223529302,11-10-1982,Bulandshahr,Jharkhand,India,977488
+CUST000013,Januja,Barman,Male,januja.barman.u0ld@outlook.com,7346095503,19-07-1983,Hosur,Punjab,India,642520
+CUST000014,Advika,Dyal,Female,advika.dyal.ac7s@hotmail.com,7362447242,25-08-1964,Anantapur,Haryana,India,238010
+CUST000015,Ekanta,Sethi,Male,ekanta.sethi.6lc9@gmail.com,9351393150,01-03-1983,Vijayawada,Odisha,India,779700
+CUST000016,Gunbir,Muni,Male,gunbir.muni.hli1@gmail.com,8646486630,18-03-1984,Ongole,Tripura,India,178031
+CUST000017,Andrew,Shanker,Female,andrew.shanker.pbom@hotmail.com,7753070009,11-11-1988,Kozhikode,Uttarakhand,India,838619
+CUST000018,Ekani,Venkataraman,Female,ekani.venkataraman.mein@gmail.com,8467123560,27-06-1981,Kishanganj,Kerala,India,759888
+CUST000019,Tristan,Apte,Female,tristan.apte.wdw5@hotmail.com,6746671407,04-02-1999,Tiruppur,Manipur,India,208503
+CUST000020,Ekta,Ganesan,Female,ekta.ganesan.3oar@yahoo.com,6142228869,24-05-2000,Durgapur,West Bengal,India,569750
+CUST000021,Vinaya,Konda,Male,vinaya.konda.4xiv@gmail.com,7993215841,30-08-1966,Tadepalligudem,Uttar Pradesh,India,585603
+CUST000022,Sathvik,Morar,Female,sathvik.morar.tkx8@gmail.com,6073876902,14-08-1993,Bhavnagar,Goa,India,656417
+CUST000023,Ekansh,Mukhopadhyay,Male,ekansh.mukhopadhyay.fh8i@yahoo.com,6982123294,22-05-1967,Vasai-Virar,Sikkim,India,512233
+CUST000024,Kiaan,Korpal,Male,kiaan.korpal.eg2m@yahoo.com,7391214932,20-07-1989,Motihari,Odisha,India,415511
+CUST000025,Jagrati,Chaudry,Female,jagrati.chaudry.1ihc@outlook.com,8745763696,19-01-1988,Pali,Chhattisgarh,India,744328
+CUST000026,Frado,Rana,Male,frado.rana.qd3p@outlook.com,8556494577,08-03-1984,Kozhikode,Telangana,India,757234
+CUST000027,Ishani,Sharma,Male,ishani.sharma.kqdq@outlook.com,8844645554,04-06-2004,Mirzapur,Gujarat,India,802633
+CUST000028,Sai,Anand,Female,sai.anand.ly2e@gmail.com,7105559722,26-04-1998,Delhi,Assam,India,568671
+CUST000029,Yashica,Tara,Male,yashica.tara.2zwc@outlook.com,7433622354,06-01-1976,Ongole,Uttarakhand,India,85899
+CUST000030,Netra,Bhardwaj,Male,netra.bhardwaj.rkm1@hotmail.com,7274970511,10-02-2006,Kirari Suleman Nagar,Haryana,India,635809
+CUST000031,Ishita,Gour,Female,ishita.gour.8nk2@outlook.com,7697714625,23-09-1981,Shahjahanpur,West Bengal,India,586074
+CUST000032,Pallavi,Devi,Female,pallavi.devi.xtb2@yahoo.com,6083269554,18-12-1977,Patiala,Uttarakhand,India,272579
+CUST000033,Suhani,Goel,Female,suhani.goel.i39d@gmail.com,9029051168,19-02-1983,Bhusawal,Odisha,India,841826
+CUST000034,Sachi,Rajagopalan,Male,sachi.rajagopalan.59gc@yahoo.com,8967243625,07-04-2001,Vijayawada,Goa,India,886883
+CUST000035,Tanvi,Natarajan,Male,tanvi.natarajan.7bvc@yahoo.com,6233215165,22-11-1963,Nandyal,Nagaland,India,148991
+CUST000036,Anthony,Bhardwaj,Female,anthony.bhardwaj.gjyd@outlook.com,7099772334,27-07-1981,Machilipatnam,Himachal Pradesh,India,808146
+CUST000037,Keya,Basu,Female,keya.basu.4p0t@yahoo.com,6604672376,04-05-1983,Bharatpur,Tripura,India,498719
+CUST000038,Vritti,Sood,Female,vritti.sood.nr6w@gmail.com,7447222304,16-10-2006,Muzaffarpur,West Bengal,India,392158
+CUST000039,Banjeet,Sekhon,Male,banjeet.sekhon.1lt1@outlook.com,8994192439,27-06-1967,Jalgaon,Chhattisgarh,India,550776
+CUST000040,Krish,Bedi,Male,krish.bedi.z4xh@yahoo.com,7414623119,22-11-1993,Visakhapatnam,Andhra Pradesh,India,26635
+CUST000041,Fariq,Saha,Female,fariq.saha.rl2p@yahoo.com,7565488706,15-02-1973,Haridwar,Assam,India,817325
+CUST000042,Shivansh,Bala,Male,shivansh.bala.v7r2@gmail.com,7550209561,27-08-1985,Bhubaneswar,Chhattisgarh,India,793189
+CUST000043,Yasti,Savant,Female,yasti.savant.z7qk@gmail.com,6023785561,19-04-2002,Karimnagar,Goa,India,152088
+CUST000044,Luke,Ganguly,Male,luke.ganguly.o51o@yahoo.com,8070509134,26-01-1993,Farrukhabad,Sikkim,India,85364
+CUST000045,Dev,Balakrishnan,Female,dev.balakrishnan.tcxs@hotmail.com,9483074706,09-05-1989,Shivpuri,Uttar Pradesh,India,936803
+CUST000046,Ojasvi,Vaidya,Male,ojasvi.vaidya.56z3@outlook.com,6416720131,02-07-1963,Bhopal,Himachal Pradesh,India,89804
+CUST000047,Arin,Sharaf,Female,arin.sharaf.wp2b@hotmail.com,6338385481,21-05-1988,Bokaro,Haryana,India,677663
+CUST000048,Utkarsh,Rai,Female,utkarsh.rai.xezu@outlook.com,6414976919,24-03-1998,Dewas,Himachal Pradesh,India,630793
+CUST000049,Onveer,Narang,Male,onveer.narang.uk4m@yahoo.com,7595531407,19-01-1993,Chandrapur,Uttar Pradesh,India,741329
+CUST000050,Eesha,Taneja,Female,eesha.taneja.7n3d@gmail.com,7433462597,19-07-1961,Thrissur,Karnataka,India,491994
+CUST000051,Indira,Aurora,Male,indira.aurora.u1ew@gmail.com,7880572798,17-04-1963,Loni,Karnataka,India,957121
+CUST000052,Kashvi,Koshy,Male,kashvi.koshy.kiau@yahoo.com,9871006771,13-12-1993,Saharanpur,Nagaland,India,56687
+CUST000053,Netra,Atwal,Male,netra.atwal.5gt3@yahoo.com,9475840688,14-05-2002,Unnao,West Bengal,India,611810
+CUST000054,Jagvi,Kala,Male,jagvi.kala.vvpz@yahoo.com,7628100849,15-10-1988,Danapur,Manipur,India,103867
+CUST000055,Ranbir,Dubey,Female,ranbir.dubey.vqk1@hotmail.com,6575391397,07-05-1988,Jammu,Uttarakhand,India,778170
+CUST000056,Manya,Menon,Female,manya.menon.b1cb@outlook.com,6556229842,14-11-1970,Kurnool,Tripura,India,691156
+CUST000057,Eshana,Edwin,Male,eshana.edwin.niez@outlook.com,7838900624,22-04-1985,Shimoga,Sikkim,India,352543
+CUST000058,Ishani,Keer,Female,ishani.keer.yp1m@hotmail.com,9679589806,26-06-1987,Nagpur,Jharkhand,India,13690
+CUST000059,Neelima,Sidhu,Female,neelima.sidhu.ojph@gmail.com,7113177438,23-02-1985,Tezpur,Tripura,India,186212
+CUST000060,Kevin,Bhardwaj,Male,kevin.bhardwaj.ppuh@gmail.com,6429713638,26-10-2001,Tumkur,Tamil Nadu,India,574795
+CUST000061,Amruta,Wable,Male,amruta.wable.tu0h@yahoo.com,6855228152,23-08-1971,Rourkela,Nagaland,India,93806
+CUST000062,Lajita,Pandey,Female,lajita.pandey.f6k9@gmail.com,6116580194,14-11-1970,Sonipat,Tripura,India,946426
+CUST000063,Ethan,Jayaraman,Male,ethan.jayaraman.zfwr@gmail.com,6437167293,18-12-1963,Rajpur Sonarpur,Haryana,India,58331
+CUST000064,Abdul,Bora,Female,abdul.bora.ry5s@gmail.com,7909710999,19-03-1969,Davanagere,Sikkim,India,857030
+CUST000065,Tripti,Rama,Male,tripti.rama.isya@gmail.com,8240881522,15-05-1969,Aurangabad,Assam,India,869030
+CUST000066,Charvi,Pradhan,Male,charvi.pradhan.xakh@outlook.com,6091105039,13-04-1993,Madurai,Gujarat,India,306435
+CUST000067,Vidhi,Kuruvilla,Female,vidhi.kuruvilla.h8io@gmail.com,6433366389,03-04-1969,Tenali,Uttar Pradesh,India,126431
+CUST000068,Idika,Chaudry,Male,idika.chaudry.rfph@outlook.com,7687926043,27-08-1968,Kalyan-Dombivli,Kerala,India,411506
+CUST000069,Luke,Sarkar,Female,luke.sarkar.puvu@outlook.com,8824101417,01-11-1968,Vadodara,Telangana,India,766515
+CUST000070,Xavier,Patil,Female,xavier.patil.9fwd@hotmail.com,6404153191,06-07-1967,Tadipatri,Uttarakhand,India,768182
+CUST000071,Yagnesh,Sangha,Male,yagnesh.sangha.h4yf@yahoo.com,9105902280,09-08-2005,Pallavaram,Madhya Pradesh,India,187537
+CUST000072,Yuvraj,Garde,Female,yuvraj.garde.1n2f@gmail.com,9425734486,20-03-1985,Munger,Kerala,India,735292
+CUST000073,Nimrat,Ratti,Male,nimrat.ratti.8s07@hotmail.com,8734395987,01-05-1976,Tenali,Maharashtra,India,42137
+CUST000074,Jasmit,Ghose,Male,jasmit.ghose.esu4@gmail.com,9120588845,16-07-1982,Satara,Sikkim,India,135226
+CUST000075,Wyatt,Sengupta,Female,wyatt.sengupta.yhbc@gmail.com,9198774632,17-04-1992,Dhanbad,Jharkhand,India,242567
+CUST000076,Wazir,Wagle,Female,wazir.wagle.8nxv@gmail.com,7638045068,24-01-1992,Mathura,Tamil Nadu,India,47530
+CUST000077,Bakhshi,Sahni,Female,bakhshi.sahni.1mgn@hotmail.com,8677719352,27-04-2008,Bardhaman,Madhya Pradesh,India,5204
+CUST000078,Krishna,Reddy,Male,krishna.reddy.qpu7@yahoo.com,7643416867,15-05-1971,Thanjavur,Nagaland,India,814705
+CUST000079,Upasna,Bahl,Female,upasna.bahl.x8xi@hotmail.com,7953245651,04-09-1966,Latur,Uttarakhand,India,470966
+CUST000080,Ranveer,Ravi,Female,ranveer.ravi.do6q@outlook.com,8422316538,24-07-1973,Gudivada,Madhya Pradesh,India,591916
+CUST000081,Ranveer,Kashyap,Female,ranveer.kashyap.sx5w@yahoo.com,7159949943,02-11-2006,Jabalpur,Haryana,India,974227
+CUST000082,Omaja,Sawhney,Male,omaja.sawhney.mkhd@outlook.com,9559730297,24-04-1988,Tadipatri,Uttarakhand,India,959551
+CUST000083,Sanya,Menon,Female,sanya.menon.la5c@gmail.com,9705750173,20-09-1991,Naihati,Gujarat,India,571470
+CUST000084,Liam,Bhagat,Female,liam.bhagat.8ru0@hotmail.com,8310248672,18-03-1961,Barasat,Andhra Pradesh,India,352109
+CUST000085,Jeevika,Parekh,Male,jeevika.parekh.azc6@outlook.com,7109319153,04-08-1987,Bhalswa Jahangir Pur,Bihar,India,542089
+CUST000086,Vincent,Yadav,Male,vincent.yadav.ambk@gmail.com,9754189238,12-11-1975,Anantapuram,Maharashtra,India,3819
+CUST000087,Warda,Ghose,Female,warda.ghose.fv4i@outlook.com,7598943065,03-01-2000,Siliguri,Jharkhand,India,380799
+CUST000088,Vihaan,Gour,Female,vihaan.gour.g35i@hotmail.com,6334877894,12-03-1970,Dibrugarh,Jharkhand,India,365659
+CUST000089,Sneha,Wadhwa,Female,sneha.wadhwa.t12l@gmail.com,8717862114,02-10-2002,Kozhikode,Haryana,India,175863
+CUST000090,Pushti,Nagar,Female,pushti.nagar.vdvq@yahoo.com,7190097657,07-11-1960,Lucknow,Jharkhand,India,954569
+CUST000091,Advik,Mittal,Female,advik.mittal.3eqz@yahoo.com,9194243235,07-08-1981,Jamnagar,Tamil Nadu,India,949772
+CUST000092,Raghav,Raju,Male,raghav.raju.ivcz@outlook.com,8131949543,08-05-1999,Hyderabad,Uttar Pradesh,India,711131
+CUST000093,Arunima,Pal,Female,arunima.pal.ypkk@outlook.com,8885961356,17-09-1995,Kollam,Haryana,India,760754
+CUST000094,Kashish,Sachdev,Male,kashish.sachdev.h1jt@yahoo.com,7670179099,04-05-1968,Erode,Rajasthan,India,280439
+CUST000095,Nitara,Choudhry,Female,nitara.choudhry.u3zd@outlook.com,8603810192,01-03-1993,Faridabad,Goa,India,596769
+CUST000096,Simon,Mangat,Female,simon.mangat.uqwr@hotmail.com,6559971109,29-08-2004,Latur,Bihar,India,575630
+CUST000097,Tanay,Jhaveri,Female,tanay.jhaveri.eqfe@yahoo.com,8195079755,06-05-1988,Orai,Assam,India,595711
+CUST000098,Wazir,Sawhney,Male,wazir.sawhney.dig9@gmail.com,6684188574,18-11-1981,Vellore,Meghalaya,India,591639
+CUST000099,Abeer,Narasimhan,Female,abeer.narasimhan.i44q@outlook.com,7971924986,18-11-1960,Amravati,Himachal Pradesh,India,73065
