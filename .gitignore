@@ -1,0 +1,31 @@
+# Virtual Environment
+.venv/
+venv/
+
+# Python Cache
+__pycache__/
+*.py[cod]
+
+# Logs
+logs/
+*.log
+
+# VS Code
+.vscode/
+
+# JetBrains
+.idea/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Spark
+spark-warehouse/
+metastore_db/
+
+# Generated Data
+data/raw/*.csv
+
+# Keep one sample dataset (optional)
+!data/raw/sample_customers.csv
