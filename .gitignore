@@ -27,5 +27,8 @@ metastore_db/
 # Generated Data
 data/raw/*.csv
 
-# Keep one sample dataset (optional)
+# Ignore generated datasets
+data/raw/customers.csv
+
+# Keep sample dataset
 !data/raw/sample_customers.csv
