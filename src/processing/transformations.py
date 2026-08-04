@@ -1,5 +1,6 @@
-from pyspark.sql.functions import (upper,lower,trim,concat_ws,initcap,when,col)
+from pyspark.sql.functions import (upper,lower,trim,concat_ws,initcap,when,col,count)
 
+#---------- bronze Transformations -----------------
 def standardize_names(df):
     return df.withColumn('first_name', initcap(trim(col('first_name')))) \
         .withColumn('last_name', initcap(trim(col('last_name'))))
@@ -46,3 +47,25 @@ def remove_duplicates(df):
     """
 
     return df.dropDuplicates()
+
+#--------------------- Silver Transformations -----------------
+def create_silver(df):
+    """
+    Keep Valid and Invalid records separate.
+    """
+    return df.filter(
+        col("email_status").isin(["VALID", "INVALID"])
+    )
+
+#--------------------- Gold Validations -----------------
+def customers_by_state(df):
+    """
+    Count customers by state.
+    """
+    return df.groupBy("State").agg(count("*").alias("total_customers"))
+
+def customers_by_city(df):
+    return df.groupBy("city").agg(count("*").alias("total_customers"))
+
+def gender_distribution(df):
+    return df.groupBy("gender").agg(count("*").alias("total_customers"))
