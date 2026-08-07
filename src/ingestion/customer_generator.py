@@ -2,7 +2,6 @@ import random
 import string
 
 from faker import Faker
-
 from src.common.logger import logger
 
 fake = Faker("en_IN")
